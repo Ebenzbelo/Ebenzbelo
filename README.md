@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Eben 👋
 
+I'm a self-taught Data Analyst and ML Engineer with a background in Electrical/Electronic Engineering - now building building projects in Excel, Power BI and Python. 
 <!--
 **Ebenzbelo/Ebenzbelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
