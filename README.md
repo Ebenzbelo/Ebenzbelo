@@ -1,6 +1,6 @@
 ## Hi, I'm Eben 👋
 
-I'm a self-taught Data Analyst and ML Engineer with a background in Electrical/Electronic Engineering - now building building projects in Excel, Power BI and Python. 
+I'm a self-taught Data Analyst and ML Engineer, and an Electrical/Electronic Engineering graduate - now building building projects in Excel, Power BI and Python. 
 NB: I am currently on the learning path.
 
 ## Tools I work with 
