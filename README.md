@@ -26,7 +26,7 @@ NB: I am currently on the learning path.
 - Resources on ML Projects in Energy systems 
 
 ## 💬 Ask me about ...
-- My Learning Journey
+- My Learning Journey and progress
   
 ## 📫 How to reach me: ...
 - ebenzbelo@gmail.com
