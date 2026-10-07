@@ -1,6 +1,4 @@
-## Hi, I'm Eben 👋
-
-I'm a self-taught Data Analyst and ML Engineer, and an Electrical/Electronic Engineering graduate. 
+## Hi, I'm Eben
 
 
 ## Tools I work with 
@@ -9,6 +7,7 @@ I'm a self-taught Data Analyst and ML Engineer, and an Electrical/Electronic Eng
 - Python
 - Google sheet
 - Matlab/Simulink
+- AutoCAD
 
 ## 🔭 I’m currently working on
 - Business Performance Report/Dashboard
